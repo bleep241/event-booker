@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "lemon",
+    "MONGO_PASSWORD": "mongolemon",
+    "MONGO_DB": "event-booker-dev"
+  }
+}
